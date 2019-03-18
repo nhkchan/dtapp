@@ -1,0 +1,4 @@
+2019-03-18T15:57:45.668Z - Info - Service is up and running - feed me with data!
+2019-03-18T15:57:50.327Z - Info - 200 - OK: Thanks for calling our Dynatrace Problem Notification Handler
+2019-03-18T15:57:53.496Z - Info - On URI /dthandler we received body: 
+2019-03-18T15:57:53.497Z - Info - 400 - ERROR: Expected Header 'x-source' not passed: {"user-agent":"PostmanRuntime/7.6.0","accept":"*/*","host":"10.61.142.33:8080","accept-encoding":"gzip, deflate","content-length":"0","connection":"keep-alive"}
